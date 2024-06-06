@@ -1,0 +1,2 @@
+# LLM-Wiki Chat assistant with RAG
+ chat assistant that utilizes Retrieval Augmented Generation (RAG) to answer questions based on a Wikipedia page of your choice. RAG has proven to be an effective method for reducing hallucinations and providing large language models (LLMs) with up-to-date knowledge without the need for retraining. the ReAct (Reasoning and Act) prompting framework. This framework assists the agent in reasoning about tool usage, observing the outcomes of the tool usage, and then responding appropriately to answer the question 
